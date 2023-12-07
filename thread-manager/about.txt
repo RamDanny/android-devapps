@@ -1,0 +1,1 @@
+Uses multithreading in Java to switch between colours and cases of text strings
